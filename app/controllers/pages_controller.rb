@@ -3,7 +3,7 @@ class PagesController < ApplicationController
     def index
     end
 
-    def test
+    def test2
     end
     
 end
